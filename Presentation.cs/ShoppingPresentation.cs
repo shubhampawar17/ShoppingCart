@@ -37,5 +37,4 @@ namespace ShoppingCart.Presentation.cs
             Console.WriteLine($"Total Order Price : {Services.GetTotalOrderPrice(customer)}");
         }
     }
-
 }
